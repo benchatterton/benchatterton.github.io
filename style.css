@@ -358,7 +358,7 @@ a{
 
 /* MEDIA QUERIES */
 
-@media only screen and (max-width: 475px) {
+@media only screen and (max-width: 850px) {
     #fixed-nav {
       height: 124px;
     }
