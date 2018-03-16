@@ -34,14 +34,14 @@ a:link, a:visited, a:active, a:hover {
   flex-direction: row-reverse;
 }
 #nav-socials {
-  flex: 1 0 850px;
+  flex: 1 0 475px;
   text-align: right;
 }
 #nav-socials > a > svg{
   margin: 0 6px;
 }
 #nav-email {
-  flex: 1 0 850px;
+  flex: 1 0 475px;
 }
 
   /* SLIDESHOW */
@@ -358,7 +358,7 @@ a{
 
 /* MEDIA QUERIES */
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 475px) {
     #fixed-nav {
       height: 124px;
     }
